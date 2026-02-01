@@ -3,8 +3,8 @@
 - [Somcoders](https://github.com/somcoders)
 - [moha-sak](https://github.com/moha-sak)
 - [abdifatah](https://github.com/abdifatahz)
-- Suber Sulub
-(https://github.com/zupeirr)
+- [Suber sulub]
+https://github.com/zupeirr
 - [mohamedabdiahmed](https://github.com/mohamedabdiahmed)
 - [himadwise](https://github.com/Himadwise)
 - [Abdimalik2004](https://github.com/abdimalik2004)
