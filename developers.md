@@ -3,7 +3,7 @@
 - [Somcoders](https://github.com/somcoders)
 - [moha-sak](https://github.com/moha-sak)
 - [abdifatah](https://github.com/abdifatahz)
-- [Suber Sulub]
+- Suber Sulub
 (https://github.com/zupeirr)
 - [mohamedabdiahmed](https://github.com/mohamedabdiahmed)
 - [himadwise](https://github.com/Himadwise)
